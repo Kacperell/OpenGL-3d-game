@@ -1,0 +1,14 @@
+builds/objects/glwidget.o
+builds/objects/main.o
+builds/objects/window.o
+builds/objects/mainwindow.o
+builds/objects/cmesh.o
+builds/objects/player.o
+builds/objects/gameobject.o
+builds/objects/cube.o
+builds/objects/bullet.o
+builds/objects/texturemanager.o
+builds/objects/badsnowman.o
+builds/objects/moc_glwidget.o
+builds/objects/moc_window.o
+builds/objects/moc_mainwindow.o
